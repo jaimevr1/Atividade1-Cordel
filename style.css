@@ -47,11 +47,22 @@ h2>a {
     font-weight: bold;
 }
 
+img {
+    margin: auto;
+    width: 30%;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: rgb(18, 100, 100);
+    margin-left: 35%;
+}
+
 p {
     text-align: center;
     padding: 10px;
     margin: auto;
+    margin-bottom: 20px;
     color: rgb(61, 2, 2);
+    width: 70%;
     background-color: rgba(150, 146, 98, 0.432);
     font-family: 'Sriracha', cursive;
     font-size: 3.5vw;
